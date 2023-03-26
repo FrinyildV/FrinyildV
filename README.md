@@ -15,6 +15,7 @@ EL siguiente README.md es una modificación del README.md de:
 
 
 - 🎓 Soy estudiante de Ingeniería Civil Electrica y del magister en Ciencias de Datos (MDS) de la Universidad de Chile.
+- ⌨ Cuento con conocimientos en MachineLearning, Deep Learning  (NN, CNN, NLP) y minería de datos junto con conocimientos estadisticos de datos. 
 - 💻 Actualmente no me encuentro trabajando 😬
 - ⚡ Jugador de MMORPGS, subo cerros (trekk), voy al GYM, malo pal valorant, leo mangas en el metro 🤠.
 
